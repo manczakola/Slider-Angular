@@ -5,9 +5,12 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-Navigate to `http://localhost:4200/parallax` to see parallax slider,
-Navigate to `http://localhost:4200/fade` to see fade slider,
-Navigate to `http://localhost:4200/slide` to see slide slider
+
+Navigate to `http://localhost:4200/parallax` to see parallax slider.
+
+Navigate to `http://localhost:4200/fade` to see fade slider.
+
+Navigate to `http://localhost:4200/slide` to see slide slider.
 
 ## Code scaffolding
 
